@@ -1,0 +1,7 @@
+# Cache files
+*.cache
+*.dll
+*.exe
+*.pak
+*.pb
+*.json
